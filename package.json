@@ -1,8 +1,8 @@
 {
-  "name": "hello-sqlite",
-  "version": "0.0.1",
+  "name": "MASHTER22",
+  "version": "1.2.1",
   "description": "A simple Node app with SQLite as a database management system, instantly up and running.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node index.js"
   },
@@ -10,6 +10,6 @@
     "axios": "^0.19.2"
   },
   "engines": {
-    "node": "12.x.x"
+    "node": "12.x"
   }
 }
